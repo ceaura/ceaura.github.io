@@ -42,7 +42,7 @@ export default function Header()
 			{/* En-tête de la page */}
 			<a
 				rel="noopener noreferrer"
-				href="https://github.com/FlorianLeChat"
+				href="https://github.com/ceaura"
 				target="_blank"
 			>
 				{t( "developer_firstname" )[ 0 ] + t( "developer_surname" )[ 0 ]}

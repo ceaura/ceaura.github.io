@@ -1,73 +1,14 @@
 {
-	"portfolio": {
-		"title": "Portfolio",
-		"skills": ["HTML", "SASS", "TypeScript", "NodeJS", "React", "NextJS", "Docker"],
-		"repository": "https://github.com/FlorianLeChat/Portfolio",
-		"demo": "https://www.florian-dev.fr/portfolio/"
+	"voyo": {
+		"title": "Voyo",
+		"skills": ["Flutter", "Dart","Python","Flask"]
 	},
-	"ravenframework": {
-		"title": "Raven Framework",
-		"skills": ["Lua", "C++", "MySQL"]
+	"platformerunity": {
+		"title": "Platformer Unity",
+		"skills": ["Unity", "C#", "Aseprite"]
 	},
-	"steamdownloader": {
-		"title": "Steam Collection Download Size Calculator",
-		"skills": ["C#", ".NET"],
-		"repository": "https://github.com/FlorianLeChat/Steam-Collection-Download-Size-Calculator"
-	},
-	"facepunchmonitor": {
-		"title": "Facepunch Commits Monitor",
-		"skills": ["C#", ".NET", "WPF"],
-		"repository": "https://github.com/FlorianLeChat/Facepunch-Commits-Monitor"
-	},
-	"filestorage": {
-		"title": "Simple File Storage",
-		"skills": ["HTML", "TailwindCSS", "TypeScript", "NodeJS", "React", "NextJS", "Docker"],
-		"repository": "https://github.com/FlorianLeChat/Simple-File-Storage",
-		"demo": "https://files.florian-dev.fr/"
-	},
-	"sourceconsole": {
-		"title": "Source Web Console",
-		"skills": ["HTML", "SASS", "TypeScript", "jQuery", "PHP", "Symfony", "Twig", "Doctrine", "Docker"],
-		"repository": "https://github.com/FlorianLeChat/Source-Web-Console",
-		"demo": "https://console.florian-dev.fr/"
-	},
-	"domego": {
-		"title": "Domego",
-		"skills": ["HTML", "SASS", "TypeScript", "NodeJS", "React", "NextJS", "MongoDB", "Docker"],
-		"repository": "https://github.com/FlorianLeChat/Domego",
-		"demo": "https://www.florian-dev.fr/domego/"
-	},
-	"assignment": {
-		"title": "Assignment Manager",
-		"skills": ["HTML", "CSS", "JavaScript", "NodeJS", "Angular", "MongoDB"],
-		"repository": "https://github.com/FlorianLeChat/Assignment-Manager",
-		"demo": "https://dapper-kheer-98d13d.netlify.app/"
-	},
-	"mangaparadise": {
-		"title": "Manga Paradise",
-		"skills": ["HTML", "CSS", "JavaScript", "PHP", "Wordpress"],
-		"demo": "https://manga-paradise.fr/"
-	},
-	"digitalidentity": {
-		"title": "Digital Identity",
-		"skills": ["HTML", "SASS", "JavaScript", "jQuery", "PHP", "Symfony", "Twig", "MySQL"],
-		"repository": "https://github.com/FlorianLeChat/Digital-Identity"
-	},
-	"gamesonweb2023": {
-		"title": "Have A Break, Save The Planet",
-		"skills": ["HTML", "JavaScript", "BabylonJS"],
-		"repository": "https://github.com/FlorianLeChat/Games-On-Web-2023",
-		"demo": "https://florianlechat.github.io/Games-On-Web-2023/"
-	},
-	"genio": {
-		"title": "Genio",
-		"skills": ["HTML", "SASS", "JavaScript", "jQuery", "PHP", "Symfony", "Twig", "MySQL"],
-		"repository": "https://github.com/FlorianLeChat/Genio"
-	},
-	"homepage": {
-		"title": "Homepage",
-		"skills": ["HTML", "CSS", "TypeScript", "NodeJS", "Svelte"],
-		"repository": "https://github.com/FlorianLeChat/Homepage",
-		"demo": "https://florianlechat.github.io/Homepage/"
+	"spaceshooter": {
+		"title": "2D Space Shooter",
+		"skills": ["Godot", "GdScript"]
 	}
 }

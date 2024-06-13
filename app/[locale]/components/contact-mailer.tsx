@@ -44,14 +44,14 @@ export default function Home()
 			case "google":
 				// On ouvre la messagerie GMail.
 				window.open(
-					"https://mail.google.com/mail/?view=cm&fs=1&to=contact@florian-dev.fr",
+					"https://mail.google.com/mail/?view=cm&fs=1&to=florianlloret13012@gmail.com",
 					"_blank"
 				);
 				break;
 
 			case "default":
 				// On ouvre la messagerie par défaut.
-				window.open( "mailto:contact@florian-dev.fr", "_blank" );
+				window.open( "mailto:florianlloret13012@gmail.com", "_blank" );
 				break;
 
 			default:
@@ -78,7 +78,7 @@ export default function Home()
 				<li>
 					<a
 						rel="noopener noreferrer"
-						href="https://github.com/FlorianLeChat"
+						href="https://github.com/ceaura"
 						target="_blank"
 					>
 						<FontAwesomeIcon icon={faGithub} />
@@ -89,7 +89,7 @@ export default function Home()
 				<li>
 					<a
 						rel="noopener noreferrer"
-						href="https://www.linkedin.com/in/florian-trayon/"
+						href="https://www.linkedin.com/in/florian-lloret-a48b6421a/"
 						target="_blank"
 					>
 						<FontAwesomeIcon icon={faLinkedin} />

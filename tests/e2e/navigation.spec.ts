@@ -18,11 +18,11 @@ test.beforeEach( async ( { page } ) =>
 test( "Vérification de certains contenus", async ( { page } ) =>
 {
 	// Vérification du titre de la page.
-	await expect( page ).toHaveTitle( "Florian Trayon - Portfolio" );
+	await expect( page ).toHaveTitle( "Florian Lloret - Portfolio" );
 
 	// Vérification du titre principal.
 	await expect(
-		page.getByRole( "heading", { name: "Hi. I am Florian Trayon." } )
+		page.getByRole( "heading", { name: "Hi. I am Florian Lloret." } )
 	).toBeVisible();
 
 	// Vérification de la présence des liens de navigation.

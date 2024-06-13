@@ -29,9 +29,10 @@ import Assignment from "@/images/assignment.png";
 import FileStorage from "@/images/filestorage.png";
 import SourceConsole from "@/images/sourceconsole.png";
 import MangaParadise from "@/images/mangaparadise.png";
-import RavenFramework from "@/images/ravenframework.png";
+import PlatformerUnity from "@/images/platformerunity.png";
 import DigitalIdentity from "@/images/digitalidentity.png";
-import SteamDownloader from "@/images/steamdownloader.png";
+import SpaceShooter from "@/images/spaceshooter.png";
+import Voyo from "@/images/voyo.png";
 import FacepunchMonitor from "@/images/facepunchmonitor.png";
 
 // Importation des fonctions utilitaires.
@@ -95,16 +96,19 @@ const getImage = ( name: string ) =>
 			return MangaParadise;
 
 		// Raven Framework.
-		case "ravenframework":
-			return RavenFramework;
+		case "platformerunity":
+			return PlatformerUnity;
 
 		// Digital Identity.
 		case "digitalidentity":
 			return DigitalIdentity;
 
 		// Steam Collection Download Size Calculator
-		case "steamdownloader":
-			return SteamDownloader;
+		case "spaceshooter":
+			return SpaceShooter ;
+		
+		case "voyo":
+			return Voyo;
 
 		// Facepunch Commits Monitor
 		case "facepunchmonitor":
@@ -176,7 +180,7 @@ export default async function Page( {
 					{/* Bouton de téléchargement du CV */}
 					<a
 						rel="noopener noreferrer"
-						href="https://drive.google.com/file/d/1AuJMWr9LJGnZv64cFh-fBrNGj0BgyRNH/view"
+						href="https://drive.google.com/file/d/18Z_OUsALC393t8oVAS3BIxcYP8GzbGrp/view"
 						target="_blank"
 					>
 						<button type="button">

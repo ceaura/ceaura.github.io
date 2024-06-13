@@ -19,7 +19,7 @@ export default function Footer()
 					a: ( chunks ) => (
 						<a
 							rel="noopener noreferrer"
-							href="https://github.com/FlorianLeChat"
+							href="https://github.com/ceaura"
 							target="_blank"
 						>
 							{chunks}

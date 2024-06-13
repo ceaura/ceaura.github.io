@@ -225,6 +225,7 @@ export default async function Layout( {
 				{/* Écran de chargement de la page */}
 				<Suspense>
 					{/* Basculement entre les thèmes */}
+					<title>Florian Lloret - Portfolio</title>
 					<ThemeProvider>
 						{/* Utilisation des traductions */}
 						<NextIntlClientProvider

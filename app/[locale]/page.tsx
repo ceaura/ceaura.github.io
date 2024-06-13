@@ -105,7 +105,7 @@ const getImage = ( name: string ) =>
 
 		// Steam Collection Download Size Calculator
 		case "spaceshooter":
-			return SpaceShooter ;
+			return SpaceShooter;
 		
 		case "voyo":
 			return Voyo;

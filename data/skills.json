@@ -1,56 +1,56 @@
 {
-	"angularjs": {
-		"name": "Angular",
+	"cplusplus": {
+		"name": "C++",
 		"icon": "plain colored",
-		"type": "front"
+		"type": "back"
 	},
-	"arduino": {
-		"name": "Arduino",
+	"unity": {
+		"name": "Unity",
 		"icon": "plain colored",
-		"type": "other"
+		"type": "back"
 	},
-	"ansible": {
-		"name": "Ansible",
-		"icon": "plain",
-		"type": "other"
-	},
-	"bootstrap": {
-		"name": "Bootstrap",
+	"u": {
+		"name": "Unreal Engine",
 		"icon": "plain colored",
-		"type": "front"
+		"type": "back"
 	},
-	"centos": {
-		"name": "CentOS",
+	"godot": {
+		"name": "Godot",
 		"icon": "plain colored",
-		"type": "other"
+		"type": "back"
+	},	
+	"codepen": {
+		"name": "GdScript",
+		"icon": "original",
+		"type": "back"
 	},
 	"csharp": {
 		"name": "C#",
 		"icon": "plain colored",
-		"type": ["back", "other"]
+		"type": ["back", "front"]
 	},
-	"css3": {
-		"name": "CSS",
-		"icon": "plain colored",
-		"type": "front"
+	"pen": {
+		"name": "Krita",
+		"icon": "classic",
+		"type": "back"
 	},
-	"debian": {
-		"name": "Debian",
-		"icon": "plain colored",
-		"type": "other"
-	},
-	"docker": {
-		"name": "Docker",
-		"icon": "plain colored",
-		"type": "other"
-	},
-	"doctrine": {
-		"name": "Doctrine",
+	"image": {
+		"name": "Aseprite",
 		"icon": "plain colored",
 		"type": "back"
 	},
-	"dotnetcore": {
-		"name": ".NET",
+	"dove": {
+		"name": "Bevy",
+		"icon": "plain colored",
+		"type": "back"
+	},
+	"rust": {
+		"name": "Rust",
+		"icon": "plain colored",
+		"type": ["back", "front"]
+	},
+	"book": {
+		"name": "UML",
 		"icon": "plain colored",
 		"type": ["other"]
 	},
@@ -77,121 +77,86 @@
 	"java": {
 		"name": "Java",
 		"icon": "plain colored",
-		"type": ["back", "other"]
+		"type": "other"
 	},
 	"javascript": {
 		"name": "JavaScript",
 		"icon": "plain colored",
-		"type": ["front", "back"]
+		"type": "front"
 	},
 	"jquery": {
 		"name": "jQuery",
 		"icon": "plain colored",
 		"type": "front"
 	},
-	"labview": {
-		"name": "LabView",
+	"people-group": {
+		"name": "Scrum",
 		"icon": "plain colored",
 		"type": "other"
 	},
-	"lua": {
-		"name": "Lua",
+	"c": {
+		"name": "C",
 		"icon": "plain",
 		"type": "other"
 	},
-	"mariadb": {
-		"name": "MariaDB",
-		"icon": "original",
-		"type": ["back", "other"]
+	"docker": {
+		"name": "Docker",
+		"icon": "plain colored",
+		"type": "other"
 	},
 	"markdown": {
 		"name": "Markdown",
 		"icon": "original",
 		"type": "other"
 	},
-	"mongodb": {
-		"name": "MongoDB",
-		"icon": "plain colored",
-		"type": ["back", "other"]
-	},
 	"mysql": {
 		"name": "MySQL",
 		"icon": "plain colored",
-		"type": ["back", "other"]
+		"type": "front"
 	},
 	"nextjs": {
 		"name": "NextJS",
 		"icon": "plain",
-		"type": ["front", "back"]
+		"type": "front"
 	},
 	"nodejs": {
 		"name": "NodeJS",
 		"icon": "plain colored",
-		"type": "back"
+		"type": "front"
 	},
 	"php": {
 		"name": "PHP",
 		"icon": "plain colored",
-		"type": "back"
+		"type": "front"
 	},
 	"python": {
 		"name": "Python",
 		"icon": "plain colored",
-		"type": ["back", "other"]
-	},
-	"r": {
-		"name": "R",
-		"icon": "plain colored",
-		"type": "other"
-	},
-	"react": {
-		"name": "React",
-		"icon": "plain colored",
-		"type": "front"
+		"type": ["front", "other"]
 	},
 	"redis": {
 		"name": "Redis",
 		"icon": "plain colored",
-		"type": "back"
-	},
-	"sass": {
-		"name": "Sass",
-		"icon": "plain colored",
-		"type": "front"
-	},
-	"spring": {
-		"name": "Spring Boot",
-		"icon": "plain colored",
-		"type": "back"
-	},
-	"svelte": {
-		"name": "Svelte",
-		"icon": "plain colored",
-		"type": "front"
+		"type": "other"
 	},
 	"symfony": {
 		"name": "Symfony",
 		"icon": "original",
-		"type": "back"
+		"type": "front"
 	},
 	"tailwindcss": {
 		"name": "TailwindCSS",
 		"icon": "plain colored",
 		"type": "front"
 	},
-	"traefikproxy": {
-		"name": "Traefik",
-		"icon": "plain colored",
-		"type": "other"
-	},
 	"typescript": {
 		"name": "TypeScript",
 		"icon": "plain colored",
-		"type": ["front", "back"]
+		"type": "front"
 	},
 	"wordpress": {
 		"name": "WordPress",
 		"icon": "plain",
-		"type": ["front", "back", "other"]
+		"type": ["front", "other"]
 	}
 }

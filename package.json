@@ -1,12 +1,12 @@
 {
   "name": "portfolio",
-  "author": "Florian Trayon (https://github.com/FlorianLeChat)",
+  "author": "Florian Lloret (https://github.com/FlorianLeChat)",
   "license": "MIT",
   "private": true,
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FlorianLeChat/Portfolio.git"
+    "url": "https://github.com/ceaura/ceaura.github.io.git"
   },
   "bugs": {
     "url": "https://github.com/FlorianLeChat/Portfolio/issues"

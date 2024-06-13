@@ -1,10 +1,10 @@
 {
 	"modals": {
-		"mailer_title": "Mailbox selection",
-		"mailer_description": "To send an email, you can choose between several mailboxes. Select your preferred one.",
-		"mailer_error": "You have to choose a mailbox.",
+		"mailer_title": "Sélection de la messagerie",
+		"mailer_description": "Pour envoyer un courriel, vous avez le choix entre plusieurs messageries. Sélectionnez celle de votre choix.",
+		"mailer_error": "Vous devez choisir une messagerie.",
 		"mailer_google": "Gmail (Google)",
-		"mailer_default": "Default mailbox"
+		"mailer_default": "Messagerie par défaut"
 	},
 	"projects":
 	{
@@ -13,53 +13,53 @@
 		"spaceshooter": "Dans ma troisième année de BUT, nous avons créé un jeu en équipe utilisant Godot et GDScript. Inspiré par Asteroids d'Atari, ce space-shooter m'a initié au pair-programming pour développer le menu 3D. J'ai contribué aux mouvements du joueur, à la gestion des projectiles et aux fichiers de configuration. Cette expérience m'a familiarisé avec Godot, ses nodes, signaux et ressources."
 	},
 	"landing": {
-		"scroll_top": "Scroll to top",
-		"header_projects": "Projects",
-		"header_skills": "Skills",
+		"scroll_top": "Remonter en haut de la page",
+		"header_projects": "Projets",
+		"header_skills": "Compétences",
 		"header_contact": "Contact",
-		"header_theme": "Theme selection",
-		"header_cookies": "Cookies preferences",
-		"header_navigation": "Navigation menu",
-		"project_source": "Source code",
-		"project_demo": "Demo",
-		"footer_mail": "Mail",
-		"filter_all": "All",
-		"filter_front": "Front-end",
-		"filter_back": "Back-end",
-		"filter_other": "Other",
-		"footer_legacy": "<a>Legacy version</a>",
-		"footer_madeby": "Created by <a>Florian Trayon 🐈</a>",
+		"header_theme": "Changement de thème",
+		"header_cookies": "Consentement des cookies",
+		"header_navigation": "Menu de navigation",
+		"project_source": "Code source",
+		"project_demo": "Démonstration",
+		"footer_mail": "Courriel",
+		"filter_all": "Toutes",
+		"filter_front": "Cross-platform",
+		"filter_back": "Jeux-vidéo",
+		"filter_other": "Autres",
+		"footer_legacy": "<a>Version classique</a>",
+		"footer_madeby": "Template par <a>Florian Trayon 🐈</a>",
 		"developer_firstname": "Florian",
 		"developer_surname": "Lloret",
-		"developer_description": "I'm a {age} year old french full-stack (junior) developer. I love to use my spare time to develop personal projects of all kinds. Passionate about computer science, I'm always looking for new technologies and new projects.",
-		"hello_title": "Hi. I am",
-		"download_resume": "Download the resume"
+		"developer_description": "Je suis un développeur (junior) français de 20 ans. J'adore utiliser mes heures perdues pour développer des projets personnels de toutes sortes. Passionné par l'informatique, je suis toujours à la recherche de nouvelles technologies et de nouveaux projets.",
+		"hello_title": "Bonjour. Je suis",
+		"download_resume": "Télécharger le C.V"
 	},
 	"consentModal": {
-		"title": "Do you want a cookie? 🍪",
-		"description": "Our website uses tracking cookies to understand how you interact with it. The tracking will be enabled only if you accept explicitly.",
-		"acceptAllBtn": "Accept all",
-		"acceptNecessaryBtn": "Reject all",
-		"showPreferencesBtn": "Manage preferences"
+		"title": "Voulez-vous un cookie ? 🍪",
+		"description": "Notre site Internet utilise des cookies de suivi pour comprendre comment vous interagissez avec lui. Le suivi ne sera activé que si vous l'acceptez explicitement.",
+		"acceptAllBtn": "Tout accepter",
+		"acceptNecessaryBtn": "Tout refuser",
+		"showPreferencesBtn": "Gérer les préférences"
 	},
 	"preferencesModal": {
-		"title": "Cookie preferences",
-		"acceptAllBtn": "Accept all",
-		"acceptNecessaryBtn": "Reject all",
-		"savePreferencesBtn": "Save preferences",
-		"closeIconLabel": "Close",
+		"title": "Préférences en matière de cookies",
+		"acceptAllBtn": "Tout accepter",
+		"acceptNecessaryBtn": "Tout refuser",
+		"savePreferencesBtn": "Sauvegarder les préférences",
+		"closeIconLabel": "Fermer",
 		"sections": [
 			{
-				"title": "Cookie usage 📢",
-				"description": "We use cookies to ensure the basic functionalities of the website and to enhance your online experience."
+				"title": "Utilisation des cookies 📢",
+				"description": "Nous utilisons des cookies pour assurer les fonctionnalités de base du site Internet et pour améliorer votre expérience en ligne."
 			},
 			{
-				"title": "Strictly necessary cookies",
-				"description": "These cookies are essential for the proper functioning of the website. Without these cookies, the website would not work properly.",
+				"title": "Cookies strictement nécessaires",
+				"description": "Ces cookies sont essentiels au bon fonctionnement du site Internet. Sans ces cookies, le site ne fonctionnerait pas correctement.",
 				"linkedCategory": "necessary",
 				"cookieTable": {
 					"headers": {
-						"name": "Name",
+						"name": "Nom",
 						"domain": "Service",
 						"description": "Description",
 						"expiration": "Expiration"
@@ -68,25 +68,25 @@
 						{
 							"name": "NEXT_COOKIE",
 							"domain": "Cookie Consent",
-							"description": "Cookie set by <a href=\"https://cookieconsent.orestbida.com/\" target=\"_blank\">Cookie Consent</a>.",
-							"expiration": "Expires after 6 months."
+							"description": "Cookie mis en place par <a href=\"https://cookieconsent.orestbida.com/\" target=\"_blank\">Cookie Consent</a>.",
+							"expiration": "Expire après 6 mois."
 						},
 						{
 							"name": "NEXT_LOCALE",
 							"domain": "NextJS",
-							"description": "Cookie set by the website.",
-							"expiration": "Expires at the end of the session."
+							"description": "Cookie mis en place par le site Internet.",
+							"expiration": "Expire à la fin de la session."
 						}
 					]
 				}
 			},
 			{
-				"title": "Performance and Analytics cookies",
-				"description": "These cookies allow the website to remember the choices you have made in the past.",
+				"title": "Cookies de performance et d'analyse",
+				"description": "Ces cookies permettent au site Internet de se souvenir des choix que vous avez faits dans le passé.",
 				"linkedCategory": "analytics",
 				"cookieTable": {
 					"headers": {
-						"name": "Name",
+						"name": "Nom",
 						"domain": "Service",
 						"description": "Description",
 						"expiration": "Expiration"
@@ -95,15 +95,15 @@
 						{
 							"name": "_ga",
 							"domain": "Google Analytics",
-							"description": "Cookie set by <a href=\"https://support.google.com/analytics/answer/10089681\" target=\"_blank\">Google Analytics</a>.",
-							"expiration": "Expires after 12 days"
+							"description": "Cookie mis en place par <a href=\"https://analytics.google.com/analytics/web/\" target=\"_blank\">Google Analytics</a>.",
+							"expiration": "Expire après 2 ans."
 						}
 					]
 				}
 			},
 			{
-				"title": "More information",
-				"description": "For any queries in relation to our policy on cookies and your choices, please contact us using our website support."
+				"title": "Plus d'informations",
+				"description": "Pour toute question relative à notre politique en matière de cookies et à vos choix, veuillez nous contacter via le support du site."
 			}
 		]
 	}

@@ -61,7 +61,6 @@ const getImage = ( name: string ) =>
 		case "genio":
 			return Genio;
 
-
 		// Homepage.
 		case "homepage":
 			return Homepage;

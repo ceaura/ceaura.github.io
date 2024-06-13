@@ -1,65 +1,64 @@
 {
 	"modals": {
-		"mailer_title": "Sélection de la messagerie",
-		"mailer_description": "Pour envoyer un courriel, vous avez le choix entre plusieurs messageries. Sélectionnez celle de votre choix.",
-		"mailer_error": "Vous devez choisir une messagerie.",
+		"mailer_title": "Email Selection",
+		"mailer_description": "To send an email, you can choose from several email clients. Select the one of your choice.",
+		"mailer_error": "You must choose an email client.",
 		"mailer_google": "Gmail (Google)",
-		"mailer_default": "Messagerie par défaut"
+		"mailer_default": "Default Email Client"
 	},
-	"projects":
-	{
-		"voyo": "J'ai contribué à l'application Voyo en sécurisant l'API avec des jetons JWT. Voyo facilite la recherche de logements avec des filtres avancés, développés en Flutter et Flask, assurant sécurité et efficacité.",
-		"platformerunity": "Ce platformer développé sur Unity a marqué mes débuts dans la création de jeux 2D avec ce moteur. J'y ai exploré les Tilemaps, les animations et l'audio, enrichissant ainsi ma maîtrise du C#. Ce projet m'a également permis de conduire seul pour la première fois un jeu vidéo, incluant le level design.",
-		"spaceshooter": "Dans ma troisième année de BUT, nous avons créé un jeu en équipe utilisant Godot et GDScript. Inspiré par Asteroids d'Atari, ce space-shooter m'a initié au pair-programming pour développer le menu 3D. J'ai contribué aux mouvements du joueur, à la gestion des projectiles et aux fichiers de configuration. Cette expérience m'a familiarisé avec Godot, ses nodes, signaux et ressources."
+	"projects": {
+		"voyo": "Voyo facilitates housing searches with advanced filters, developed in Flutter and Flask for a university project.",
+		"platformerunity": "This platformer developed on Unity marked my beginnings in creating 2D games with this engine. I explored Tilemaps, animations, and audio, enriching my mastery of C#. This project also allowed me to single-handedly drive a video game for the first time, including level design.",
+		"spaceshooter": "In my third year of BUT, we created a team game using Godot and GDScript. Inspired by Atari's Asteroids, this space-shooter introduced me to pair-programming to develop the 3D menu. I contributed to player movements, projectile management, and configuration files. This experience familiarized me with Godot, its nodes, signals, and resources."
 	},
 	"landing": {
-		"scroll_top": "Remonter en haut de la page",
-		"header_projects": "Projets",
-		"header_skills": "Compétences",
+		"scroll_top": "Scroll to top",
+		"header_projects": "Projects",
+		"header_skills": "Skills",
 		"header_contact": "Contact",
-		"header_theme": "Changement de thème",
-		"header_cookies": "Consentement des cookies",
-		"header_navigation": "Menu de navigation",
-		"project_source": "Code source",
-		"project_demo": "Démonstration",
-		"footer_mail": "Courriel",
-		"filter_all": "Toutes",
+		"header_theme": "Theme Change",
+		"header_cookies": "Cookie Consent",
+		"header_navigation": "Navigation Menu",
+		"project_source": "Source Code",
+		"project_demo": "Demo",
+		"footer_mail": "Email",
+		"filter_all": "All",
 		"filter_front": "Cross-platform",
-		"filter_back": "Jeux-vidéo",
-		"filter_other": "Autres",
-		"footer_legacy": "<a>Version classique</a>",
-		"footer_madeby": "Template par <a>Florian Trayon 🐈</a>",
+		"filter_back": "Video Games",
+		"filter_other": "Others",
+		"footer_legacy": "<a>Classic Version</a>",
+		"footer_madeby": "Template by <a>Florian Trayon 🐈</a>",
 		"developer_firstname": "Florian",
 		"developer_surname": "Lloret",
-		"developer_description": "Je suis un développeur (junior) français de 20 ans. J'adore utiliser mes heures perdues pour développer des projets personnels de toutes sortes. Passionné par l'informatique, je suis toujours à la recherche de nouvelles technologies et de nouveaux projets.",
-		"hello_title": "Bonjour. Je suis",
-		"download_resume": "Télécharger le C.V"
+		"developer_description": "I am a 20-year-old French (junior) developer. I love using my spare time to develop personal projects of all kinds. Passionate about computers, I am always looking for new technologies and new projects.",
+		"hello_title": "Hello. I am",
+		"download_resume": "Download Resume"
 	},
 	"consentModal": {
-		"title": "Voulez-vous un cookie ? 🍪",
-		"description": "Notre site Internet utilise des cookies de suivi pour comprendre comment vous interagissez avec lui. Le suivi ne sera activé que si vous l'acceptez explicitement.",
-		"acceptAllBtn": "Tout accepter",
-		"acceptNecessaryBtn": "Tout refuser",
-		"showPreferencesBtn": "Gérer les préférences"
+		"title": "Do you want a cookie? 🍪",
+		"description": "Our website uses tracking cookies to understand how you interact with it. Tracking will only be enabled if you explicitly accept it.",
+		"acceptAllBtn": "Accept All",
+		"acceptNecessaryBtn": "Reject All",
+		"showPreferencesBtn": "Manage Preferences"
 	},
 	"preferencesModal": {
-		"title": "Préférences en matière de cookies",
-		"acceptAllBtn": "Tout accepter",
-		"acceptNecessaryBtn": "Tout refuser",
-		"savePreferencesBtn": "Sauvegarder les préférences",
-		"closeIconLabel": "Fermer",
+		"title": "Cookie Preferences",
+		"acceptAllBtn": "Accept All",
+		"acceptNecessaryBtn": "Reject All",
+		"savePreferencesBtn": "Save Preferences",
+		"closeIconLabel": "Close",
 		"sections": [
 			{
-				"title": "Utilisation des cookies 📢",
-				"description": "Nous utilisons des cookies pour assurer les fonctionnalités de base du site Internet et pour améliorer votre expérience en ligne."
+				"title": "Use of Cookies 📢",
+				"description": "We use cookies to ensure the basic functionalities of the website and to enhance your online experience."
 			},
 			{
-				"title": "Cookies strictement nécessaires",
-				"description": "Ces cookies sont essentiels au bon fonctionnement du site Internet. Sans ces cookies, le site ne fonctionnerait pas correctement.",
+				"title": "Strictly Necessary Cookies",
+				"description": "These cookies are essential for the proper functioning of the website. Without these cookies, the site would not function properly.",
 				"linkedCategory": "necessary",
 				"cookieTable": {
 					"headers": {
-						"name": "Nom",
+						"name": "Name",
 						"domain": "Service",
 						"description": "Description",
 						"expiration": "Expiration"
@@ -68,25 +67,25 @@
 						{
 							"name": "NEXT_COOKIE",
 							"domain": "Cookie Consent",
-							"description": "Cookie mis en place par <a href=\"https://cookieconsent.orestbida.com/\" target=\"_blank\">Cookie Consent</a>.",
-							"expiration": "Expire après 6 mois."
+							"description": "Cookie set by <a href=\"https://cookieconsent.orestbida.com/\" target=\"_blank\">Cookie Consent</a>.",
+							"expiration": "Expires after 6 months."
 						},
 						{
 							"name": "NEXT_LOCALE",
 							"domain": "NextJS",
-							"description": "Cookie mis en place par le site Internet.",
-							"expiration": "Expire à la fin de la session."
+							"description": "Cookie set by the website.",
+							"expiration": "Expires at the end of the session."
 						}
 					]
 				}
 			},
 			{
-				"title": "Cookies de performance et d'analyse",
-				"description": "Ces cookies permettent au site Internet de se souvenir des choix que vous avez faits dans le passé.",
+				"title": "Performance and Analytics Cookies",
+				"description": "These cookies allow the website to remember choices you have made in the past.",
 				"linkedCategory": "analytics",
 				"cookieTable": {
 					"headers": {
-						"name": "Nom",
+						"name": "Name",
 						"domain": "Service",
 						"description": "Description",
 						"expiration": "Expiration"
@@ -95,15 +94,15 @@
 						{
 							"name": "_ga",
 							"domain": "Google Analytics",
-							"description": "Cookie mis en place par <a href=\"https://analytics.google.com/analytics/web/\" target=\"_blank\">Google Analytics</a>.",
-							"expiration": "Expire après 2 ans."
+							"description": "Cookie set by <a href=\"https://analytics.google.com/analytics/web/\" target=\"_blank\">Google Analytics</a>.",
+							"expiration": "Expires after 2 years."
 						}
 					]
 				}
 			},
 			{
-				"title": "Plus d'informations",
-				"description": "Pour toute question relative à notre politique en matière de cookies et à vos choix, veuillez nous contacter via le support du site."
+				"title": "More Information",
+				"description": "For any questions related to our cookie policy and your choices, please contact us through site support."
 			}
 		]
 	}

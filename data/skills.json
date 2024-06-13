@@ -127,7 +127,7 @@
 	"nodejs": {
 		"name": "NodeJS",
 		"icon": "plain colored",
-		"type": "back"
+		"type": "front"
 	},
 	"php": {
 		"name": "PHP",

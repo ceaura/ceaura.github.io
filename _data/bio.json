@@ -22,28 +22,28 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": [ "C", "C#", "C++", "Java", "GdScript"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Game engine",
+      "keywords": [ "Unity", "Unreal engine 5", "Godot"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "INU Champollion, Albi, France",
+      "area": "Audiovisuel, Médias Interactifs Numériques, Jeu",
+      "studyType": "Master",
+      "startDate": "2024",
+      "endDate": "2026",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Opto",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-08-01",

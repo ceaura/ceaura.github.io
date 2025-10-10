@@ -15,9 +15,8 @@
   },
   "interests": [
     { "name": "Game dev" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Serious Game" },
+    { "name": "Pixel art" },
     { "name": "3D Graphics" }
   ],
   "skills": [
@@ -43,24 +42,24 @@
   ],
   "work": [
     {
-      "company": "Opto",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Nexio informatique",
+      "position": "Mobile Developer",
+      "website": "https://www.nexio.info/",
+      "startDate": "September 2023",
+      "endDate": "July 2024",
+      "summary": "X",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Opto",
+      "position": "Mobile Developer",
+      "website": "https://opto-gmbh.com/fr/",
+      "startDate": "March 2023",
+      "endDate": "June 2023",
+      "summary": "X",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
@@ -69,23 +68,23 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Association AFEV",
+      "website": "https://afev.org/en",
+      "position": "Volunteer",
+      "startDate": "October 2024",
+      "endDate": "June 2025",
+      "summary": "X",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Les comploteurs festifs",
+      "website": "https://www.instagram.com/les_comploteurs_festifs/?hl=en",
+      "position": "Volunteer at the catering stand",
+      "startDate": "April 2025",
+      "endDate": "April 2025",
       "summary": "",
       "highlights": [
         "Chair, ACM Manoa, 2016-Present",
@@ -96,16 +95,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
+      "title": "X",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "X",
+      "summary": "X."
     }
   ],
   "references": [

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/vacay/vacay-square.png
 title: "Glycémie VR"
-date: 2024
+date: Winter 2024
 published: true
 labels:
   - Unity

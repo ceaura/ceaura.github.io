@@ -10,7 +10,7 @@ labels:
   - C#
   - Serious Game
   - VR
-summary: "Serious game en réalité virtuelle destiné à sensibiliser à l’utilisation du capteur de glycémie. Chef de projet et game designer, j’ai aussi contribué au développement et à la mise en place du TTS."
+summary: "Virtual reality serious game designed to raise awareness about the use of blood glucose monitors. As project manager and game designer, I also contributed to the development and implementation of TTS."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">

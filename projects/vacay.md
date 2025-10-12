@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: "Glycémie VR"
+date: 2024
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Unity
+  - C#
+  - Serious Game
+  - VR
+summary: "Serious game en réalité virtuelle destiné à sensibiliser à l’utilisation du capteur de glycémie. Chef de projet et game designer, j’ai aussi contribué au développement et à la mise en place du TTS."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">

@@ -1,23 +1,22 @@
 {
   "basics": {
     "name": "Florian Lloret",
-    "label": "Student game dev",
+    "label": "Master’s student in Game Development",
     "picture": "https://github.com/ceaura.png",
     "email": "florianlloret13012@gmail.com",
     "phone": "06 17 30 57 19",
     "website": "https://ceaura.itch.io/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "13000", "city": "Marseille", "countryCode": "FR", "region": "PACA" },
+    "summary": "Master’s student in Game Development, passionate about creating games and exploring new ways to bring ideas to life. I expect to graduate in Summer 2026.",
+    "location": { "address": "", "postalCode": "13000", "city": "Marseille", "countryCode": "FR", "region": "" },
     "profiles": [
       { "network": "github", "username": "ceaura", "url": "https://github.com/ceaura" },
       { "network": "linkedin", "username": "Florian Lloret", "url": "https://www.linkedin.com/in/florian-lloret-a48b6421a/" },
     ]
   },
   "interests": [
-    { "name": "Game dev" },
-    { "name": "Serious Game" },
-    { "name": "Pixel art" },
-    { "name": "3D Graphics" }
+    { "name": "Game development" },
+    { "name": "Instructional design" },
+    { "name": "Mobile development" }
   ],
   "skills": [
     {

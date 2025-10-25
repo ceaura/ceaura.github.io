@@ -27,5 +27,5 @@ I also developed the **text-to-speech system**, improving immersion by replacing
 Throughout the project, I learned how to transform complex scientific concepts into accessible gameplay, balance VR comfort for a general audience, and manage a small interdisciplinary team under tight deadlines.  
 The project was well received by both the client and the academic jury.
 
-Source: <a href="https://youtu.be/dnQE1dS31Kw">Glycémie VR Demo</a>
+Link: <a href="https://youtu.be/dnQE1dS31Kw">Glycémie VR Demo</a>
 

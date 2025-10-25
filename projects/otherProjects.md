@@ -41,5 +41,5 @@ This exploration helps me deepen my understanding of rendering, GPU communicatio
 
 ---
 
-**Source:** <a href="https://ceaura.itch.io/">My Itch.io page</a>
+Link: <a href="https://ceaura.itch.io/">My Itch.io page</a>
 

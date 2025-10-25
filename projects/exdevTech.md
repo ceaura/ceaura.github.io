@@ -27,6 +27,6 @@ The mobile app allows technicians to view their schedules, access client informa
 As the **sole developer**, I handled the full development cycle — from user research and UI mockups to backend design and deployment — while maintaining constant communication with end users to ensure the tool fit their daily workflow.  
 The project was well received and remains in production today, one year after deployment, still used actively without major issues.
 
-Source: <a href="#">Internal Production Project</a>
+Link: <a href="#">Internal Production Project</a>
 
 

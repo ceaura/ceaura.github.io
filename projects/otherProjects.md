@@ -14,8 +14,6 @@ labels:
 summary: "Compilation of smaller projects and works in progress — showcasing what I'm currently exploring and learning."
 ---
 
-## Prototypes & Experiments
-
 ### **Speakanoid**
 A 2D typing game developed in Unity during **Trijam 322**, where each participant had only **3 hours of development time**.  
 The player controls an anxious alien giving a speech about humans — each typing mistake increases its anxiety level until it breaks down.  

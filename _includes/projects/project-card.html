@@ -1,4 +1,4 @@
-<div class="card mb-3">
+<div class="card mb-3 shadow-sm border-0 rounded-4 overflow-hidden hover-shadow">
   <div class="row g-0">
     <div class="col-sm-6 col-md-4">
       <img 
@@ -9,16 +9,20 @@
     <div class="col-sm-6 col-md-8">
       <div class="card-body">
         <h5 class="card-title">{{ include.page.title }} <small class="text-muted float-end">{{ include.page.date }}</small></h5>
-        <p class="card-text">{{ include.page.summary }}</p>
-        <p>
+        <p class="mb-2">{{ include.page.summary }}</p>
+        <div class="mb-3">
           {% for label in include.page.labels %}
-          <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>
+          <span class="badge rounded-pill px-2 py-1 me-1" style="background-color: var(--tf-pill-bg)">
+            {{ label }}
+          </span>
           {% endfor %}
-        </p>
+        </div>
         {% if page.projecturl %}
         <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
         {% else %}
-        <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
+        <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark btn-sm rounded-pill">
+          Read More →
+        </a>
         {% endif %}
       </div>
     </div>

@@ -14,7 +14,9 @@ labels:
 summary: "Virtual reality serious game designed to raise awareness about the use of blood glucose monitors. As project manager and game designer, I also contributed to the development and implementation of TTS."
 ---
 
-<img class="img-fluid" src="../img/glycemie/glycemiePiece1.png">
+<p class="text-center">
+  <img class="img-fluid rounded-4 shadow-sm" src="../img/glycemie/glycemiePiece1.png" alt="Glycémie VR screenshot">
+</p>
 
 **Glycémie VR** is a virtual reality serious game developed for INSA Toulouse to help students learn about the use of blood glucose monitors in a more engaging and interactive way.  
 Developed over four weeks by a team of four as part of a university project, the experience was designed for Meta Quest using Unity VR.
@@ -22,7 +24,7 @@ Developed over four weeks by a team of four as part of a university project, the
 As **project manager and game designer**, I was responsible for writing the complete game design document, coordinating the team through Trello and weekly meetings, and researching how to make the topic of glycemia more pedagogical and playful.  
 I also developed the **text-to-speech system**, improving immersion by replacing on-screen text with spoken explanations, and contributed to the **quiz gameplay** implementation.
 
-<img class="img-fluid" src="../img/glycemie/glycemiePiece2.png">
+<img class="img-fluid rounded-4 shadow-sm my-3" src="../img/glycemie/glycemiePiece2.png" alt="Glycémie VR screenshot">
 
 Throughout the project, I learned how to transform complex scientific concepts into accessible gameplay, balance VR comfort for a general audience, and manage a small interdisciplinary team under tight deadlines.  
 The project was well received by both the client and the academic jury.

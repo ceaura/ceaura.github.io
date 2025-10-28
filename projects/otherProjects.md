@@ -16,7 +16,7 @@ summary: "Compilation of smaller projects and works in progress — showcasing w
 
 ### **Speakanoid**
 A 2D typing game developed in Unity during **Trijam 322**, where each participant had only **3 hours of development time**.  
-The player controls an anxious alien giving a speech about humans — each typing mistake increases its anxiety level until it breaks down.  
+The player controls an anxious alien giving a speech about humans each typing mistake increases its anxiety level until it breaks down.  
 The theme of the jam was *“Your fears are the game mechanics.”*
 
 ---

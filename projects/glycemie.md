@@ -24,7 +24,7 @@ I also developed the **text-to-speech system**, improving immersion by replacing
 
 <img class="project-image" src="../img/glycemie/glycemiePiece2.png" alt="Glycémie VR screenshot">
 
-Throughout the project, I learned how to transform complex scientific concepts into accessible gameplay, balance VR comfort for a general audience, and manage a small interdisciplinary team under tight deadlines.  
+Throughout the project, I learned how to transform complex scientific concepts into accessible gameplay, balance VR comfort for a general audience and manage a small interdisciplinary team under tight deadlines.  
 The project was well received by both the client and the academic jury.
 
 Link: <a href="https://youtu.be/dnQE1dS31Kw">Glycémie VR Demo</a>

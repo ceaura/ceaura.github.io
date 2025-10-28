@@ -11,7 +11,7 @@ labels:
   - Game Jams
   - C++
   - Unreal Engine
-summary: "Compilation of smaller projects and works in progress — showcasing what I'm currently exploring and learning."
+summary: "Compilation of smaller projects and works in progress, showcasing what I'm currently exploring and learning."
 ---
 
 ### **Speakanoid**

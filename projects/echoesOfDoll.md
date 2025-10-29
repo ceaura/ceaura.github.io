@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+class: dark-project
 image: img/echoesOfDoll/EchoesDollMonster.png
 title: "Echoes of the Doll"
 date: Spring 2025

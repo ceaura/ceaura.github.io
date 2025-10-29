@@ -94,6 +94,20 @@ a {
   transform: translateY(-1px);
 }
 
+.dark-project {
+  background-color: #1b1b1b;
+  color: #f2f2f2;
+}
+
+.dark-project a {
+  color: #9ecbff;
+}
+
+.dark-project img {
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(255,255,255,0.1);
+}
+
 
 @keyframes fadeInUp {
   to {

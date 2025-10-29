@@ -11,6 +11,7 @@
     "profiles": [
       { "network": "controller", "username": "ceaura", "url": "https://ceaura.itch.io/" },
       { "network": "linkedin", "username": "Florian Lloret", "url": "https://www.linkedin.com/in/florian-lloret-a48b6421a/" },
+      { "network": "file-earmark-text", "username": "Resume", "url": "https://drive.google.com/file/d/1mkRtsUOm6aoXQwC3PUR1jqfRvnuoZBlt/view?usp=sharing" }
     ]
   },
   "interests": [

@@ -31,5 +31,7 @@ This required building a clean, object-oriented weapon system and experimenting 
 Through this project, I learned how to integrate ragdoll systems, structure clean modular code, and collaborate with multiple developers and artists using Git outside of class hours.  
 Although the final chase sequence suffered from time constraints and bugs, the project was well received by the jury.
 
-Link: <a href="https://www.youtube.com/watch?v=6ZDrD4WmJgY">Echoes of the Dolls Trailer</a>
+Itch.io page : <a href="https://ceaura.itch.io/echoes-of-the-doll">Echoes of the Dolls itch.io</a>
+
+Trailer link: <a href="https://www.youtube.com/watch?v=6ZDrD4WmJgY">Echoes of the Dolls Trailer</a>
 

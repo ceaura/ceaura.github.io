@@ -83,6 +83,18 @@ a {
   display: block;
 }
 
+.navbar .nav-link {
+  font-weight: 600;
+  color: #222 !important;
+  transition: all 0.2s ease-in-out;
+}
+
+.navbar .nav-link:hover {
+  color: #0d6efd !important; 
+  transform: translateY(-1px);
+}
+
+
 @keyframes fadeInUp {
   to {
     opacity: 1;

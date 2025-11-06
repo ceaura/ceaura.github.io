@@ -27,15 +27,21 @@ The player controls the ship from an Android tablet through **TCP/UDP commands**
 
 ---
 
-### **Learning Unreal Engine**
-Currently following the Udemy course *“Unreal Engine 5 C++ The Ultimate Game Developer Course.”*  
-I'm exploring the engine’s workflow, scripting in C++, and understanding its architecture to broaden my game programming skills.
+### **Volunteering**
+During the 2024–2025 academic year, I volunteered with AFEV, providing two hours per week of academic support to a primary school student.
+In April 2025, I also volunteered with Les Comploteurs Festifs, a student association that organizes a two-day music festival at the university each year, where I was part of the catering team.
 
 ---
 
 ### **Learning Computer Graphics**
 Currently learning **OpenGL** by developing small projects to understand the **graphics pipeline** and how to work with **shaders**.  
 This exploration helps me deepen my understanding of rendering, GPU communication, and low-level graphics programming in **C++**.
+
+---
+
+### **Learning Unreal Engine**
+Currently following the Udemy course *“Unreal Engine 5 C++ The Ultimate Game Developer Course.”*  
+I'm exploring the engine’s workflow, scripting in C++, and understanding its architecture to broaden my game programming skills.
 
 ---
 

@@ -28,8 +28,8 @@ The player controls the ship from an Android tablet through **TCP/UDP commands**
 ---
 
 ### **Volunteering**
-During the 2024–2025 academic year, I volunteered with AFEV, providing two hours per week of academic support to a primary school student.
-In April 2025, I also volunteered with Les Comploteurs Festifs, a student association that organizes a two-day music festival at the university each year, where I was part of the catering team.
+During the 2024–2025 academic year, I volunteered with **AFEV**, providing two hours per week of academic support to a primary school student.
+In April 2025, I also volunteered with **Les Comploteurs Festifs**, a student association that organizes a two-day music festival at the university each year, where I was part of the catering team.
 
 ---
 

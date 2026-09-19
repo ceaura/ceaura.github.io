@@ -48,10 +48,11 @@
       "website": "https://www.nexio.info/",
       "startDate": "September 2023",
       "endDate": "July 2024",
-      "summary": "X",
+      "summary": "Work-study placement, sole developer of ExDevTech.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Designed and built ExDevTech, a Flutter mobile app replacing field technicians' paper intervention reports",
+        "Developed the Python Flask REST API and a WinDev CMS extension used by the office to create and assign interventions",
+        "Implemented offline mode, digital forms with photos and signatures; the tool is still in production today"
       ]
     },
     {
@@ -60,10 +61,8 @@
       "website": "https://opto-gmbh.com/fr/",
       "startDate": "March 2023",
       "endDate": "June 2023",
-      "summary": "X",
+      "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
@@ -74,10 +73,9 @@
       "position": "Volunteer",
       "startDate": "October 2024",
       "endDate": "June 2025",
-      "summary": "X",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Provided two hours per week of academic support to a primary school student over the 2024-2025 school year"
       ]
     },
     {
@@ -88,9 +86,7 @@
       "endDate": "April 2025",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Part of the catering team for the association's two-day student music festival held at the university"
       ]
     }
   ],

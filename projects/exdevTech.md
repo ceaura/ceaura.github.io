@@ -4,6 +4,7 @@ type: project
 image: img/exdevTech/exdevTechMobile.png
 title: "ExdevTech"
 date: Spring - Summer 2024
+weight: 30
 published: true
 labels:
   - Flutter
@@ -14,7 +15,7 @@ labels:
 summary: "Full-stack Flutter and REST project digitizing field technicians’ workflows, still in production today."
 ---
 
-<img class="project-image" src="../img/exdevTech/exdevTechMobile.png" alt="Echoes of the Doll screenshot">
+<img class="project-image" src="../img/exdevTech/exdevTechMobile.png" alt="ExdevTech mobile app screenshot">
 
 **ExDevTech** is a mobile and desktop application developed during my work-study year to modernize the workflow of field technicians.  
 Previously relying on paper forms the company needed a digital solution to create, assign and manage intervention reports more efficiently.

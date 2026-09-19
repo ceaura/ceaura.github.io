@@ -3,7 +3,8 @@ layout: project
 type: project
 image: img/otherProjects/Speakanoid.png
 title: "Other Projects"
-date: None
+date: Ongoing
+weight: 10
 published: true
 labels:
   - Unity

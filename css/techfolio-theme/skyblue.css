@@ -103,6 +103,14 @@ a {
   color: #9ecbff;
 }
 
+.dark-project h1,
+.dark-project h2,
+.dark-project h3,
+.dark-project h4,
+.dark-project h5 {
+  color: var(--tf-blue4);
+}
+
 .dark-project img {
   border-radius: 10px;
   box-shadow: 0 0 15px rgba(255,255,255,0.1);

@@ -4,6 +4,7 @@ type: project
 image: img/glycemie/glycemiePiece1.png
 title: "Glycémie VR"
 date: Winter 2024
+weight: 20
 published: true
 labels:
   - Unity

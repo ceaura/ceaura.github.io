@@ -40,9 +40,8 @@ This exploration helps me deepen my understanding of rendering, GPU communicatio
 
 ---
 
-### **Learning Unreal Engine**
-Currently following the Udemy course *“Unreal Engine 5 C++ The Ultimate Game Developer Course.”*  
-I'm exploring the engine’s workflow, scripting in C++, and understanding its architecture to broaden my game programming skills.
+### **GAMAGORA : Video game engineering**
+I'm currently enrolled in GAMAGORA, a master's program in video game engineering in Lyon. Through it, I'm deepening my knowledge of engine architecture, game programming and production workflows, while working on team projects that bring together programmers, artists and designers.
 
 ---
 
